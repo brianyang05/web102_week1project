@@ -34,7 +34,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented required features:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<iframe src="https://drive.google.com/file/d/1ED7xypP12N68cb2yWrZpWYmUKmtl1rnL/preview" width="640" height="480" allow="autoplay"></iframe>
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  

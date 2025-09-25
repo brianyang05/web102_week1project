@@ -1,5 +1,5 @@
 // src/components/EventCard.jsx
-EventCard({ title, date, location, description, link, image, cta = "Open" }) {
+function EventCard({ title, date, location, description, link, image, cta = "Open" }) {
     return (
     <article className="card">
     {image && (
